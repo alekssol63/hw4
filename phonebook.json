@@ -1,0 +1,41 @@
+[
+  {
+	"firstName": "Иван",
+	"lastName": "Иванов",
+	"address": {
+		"streetAddress": "Московское ш.",
+		"city": "Ленинград",
+		"postalCode": 101101
+	},
+	"phoneNumbers": [
+		"812 123-1234",
+		"916 123-4567"
+	]
+},
+  {
+	"firstName": "Андрей",
+	"lastName": "Петров",
+	"address": {
+		"streetAddress": "ул. Ленина",
+		"city": "Москва",
+		"postalCode": 220350
+	},
+	"phoneNumbers": [
+		"929 465-1234",
+		"913 144-4567"
+	]
+},
+{
+"firstName": "Игорь",
+"lastName": "Сидоров",
+"address": {
+	"streetAddress": "ул. Маркса",
+	"city": "Казань",
+	"postalCode": 770565
+},
+"phoneNumbers": [
+	"929 878-0504",
+	"913 328-4557"
+]
+}
+]
